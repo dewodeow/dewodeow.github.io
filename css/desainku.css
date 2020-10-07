@@ -1,0 +1,18 @@
+*{
+	box-siring: border-box;
+}
+body{
+	margin: 0;
+}
+
+/* Style the header*/
+.header{ 
+	backgrounf-color: navy;
+	padding: 20px;
+	text-align: center;
+	color: blue;
+}
+.footer{
+	text-align: center;
+	color: red;
+}
